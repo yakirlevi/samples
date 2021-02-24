@@ -6,6 +6,9 @@ metadata:
   description: >
     A complex cloud architecture of a web application
     and a managed database cluster deployed with TerraForm.
+  tags:
+    - yakir-key1: yakir-value1
+    - yakir-key2: yakir-value2
 
 clouds:
   - AWS: eu-west-1
